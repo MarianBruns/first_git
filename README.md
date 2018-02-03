@@ -1,2 +1,2 @@
 # first_git
-$$exp(\\vec{x})$$
+$exp(\\vec{x})$
