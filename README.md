@@ -1,2 +1,3 @@
-# first_git
-$exp(\\vec{x})$
+# erster git versuch
+## und markdown auch
+### wie gesagt...
