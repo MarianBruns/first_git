@@ -2,4 +2,4 @@
 ## und markdown auch
 ### wie gesagt...
 
-formelversuch: $$\vec{\alpha}$$
+formelversuch: $\vec{\alpha}$
